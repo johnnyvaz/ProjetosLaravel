@@ -1,0 +1,3 @@
+referencia: 
+https://rafaell-lycan.com/2015/construindo-restful-api-laravel-parte-1/
+https://rafaell-lycan.com/2016/construindo-restful-api-laravel-parte-2/
